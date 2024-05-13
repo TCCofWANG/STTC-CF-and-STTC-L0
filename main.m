@@ -1,5 +1,6 @@
 clear; close all; warning off;
 addpath TensorRing
+addpath tensor_toolbox
 addpath tensorlab
 addpath traffic_data  
 
